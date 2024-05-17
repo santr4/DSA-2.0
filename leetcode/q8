@@ -1,6 +1,6 @@
 125. Valid Palindrome
 
-    class Solution
+class Solution
 {
 public:
     bool isPalindrome(string s)
