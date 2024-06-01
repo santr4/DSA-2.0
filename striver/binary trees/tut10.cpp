@@ -1,4 +1,4 @@
-// Diameter of a binary tree
+// 543. Diameter of a binary tree
 
 /**
  * Definition for a binary tree node.
