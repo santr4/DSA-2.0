@@ -1,4 +1,4 @@
-// string reversal
+// string reversal over words
 
 #include <bits/stdc++.h>
 using namespace std;
